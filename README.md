@@ -1,5 +1,7 @@
 # Manual Trigger Link for Apollo GraphQL Client
 
+[![NPM](https://img.shields.io/npm/v/@quiqupltd/manual-trigger-link.svg)](https://www.npmjs.com/package/@quiqupltd/manual-trigger-link)
+
 An ApolloLink to trigger data coming manually.
 
 ## Why?
@@ -15,6 +17,10 @@ yarn add @quiqup/manual-trigger-link
 ## Peer dependencies
 
 * `apollo-link`
+
+## Example
+
+Please take a look [at this example](https://github.com/quiqupltd/manual-trigger-link-example).
 
 ## Usage
 
